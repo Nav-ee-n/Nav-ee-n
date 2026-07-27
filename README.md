@@ -15,7 +15,7 @@
 
 ## 💫 About Me
 
-Motivated MCA graduate (2025) with hands-on experience in Python, machine learning, and generative AI through academic projects and a data science internship. Proficient in building end-to-end ML pipelines — from data preprocessing and feature engineering to model training, evaluation, and deployment. Experienced in RAG-based systems, LLMs, and LangChain for AI-driven applications, with exposure to cloud deployment on AWS. Eager to contribute to real-world AI/ML and data analytics solutions in a collaborative team environment.
+Motivated MCA graduate (2025) with hands-on experience in Python machine learning and generative AI through projects and a data science internship. Proficient in building end-to-end ML pipelines. From data preprocessing and feature engineering to model training, evaluation and deployment. Experienced in RAG-based systems, LLMs and LangChain for AI-driven applications with exposure to cloud deployment, on AWS. Eager to contribute to real-world AI/ML and data analytics solutions in a team environment.
 
 - 🎓 MCA from **College of Engineering, Trivandrum (CET)** — CGPA: 8.19
 - 💼 Data Science Intern @ **Luminar Technolab**
@@ -81,20 +81,6 @@ Motivated MCA graduate (2025) with hands-on experience in Python, machine learni
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Naveen's GitHub Stats](https://github-readme-stats.shion.dev/api?username=Nav-ee-n&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=Nav-ee-n&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=Nav-ee-n&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
-</div>
 
 ---
 
